@@ -7,13 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2addffde-6afa-46f5-90f2-21320c8cad74" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/listeners/HttpSessionLogListener.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/servlets/CheckUser.java" afterPath="$PROJECT_DIR$/src/servlets/CheckUser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/samples/JSPSimpleBeanJSP.jsp" afterPath="$PROJECT_DIR$/web/samples/JSPSimpleBeanJSP.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\JAVA\Projects\JSP_Samples\src\servlets\SimpleBean.java" afterPath="$PROJECT_DIR$/src/servletsSamples/SimpleBean.java" />
     </list>
     <ignored path="JSP_Samples.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -574,12 +568,17 @@
       <changelist id="2addffde-6afa-46f5-90f2-21320c8cad74" name="Default" comment="" />
       <created>1392720502446</created>
       <updated>1392720502446</updated>
-      <workItem from="1392720507200" duration="7750000" />
+      <workItem from="1392720507200" duration="7765000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit&#10;">
+      <created>1392729307317</created>
+      <updated>1392729307317</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7750000" />
+    <option name="totallyTimeSpent" value="7765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -624,6 +623,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Initial commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
