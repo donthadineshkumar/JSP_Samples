@@ -27,6 +27,7 @@ public class CheckUser extends Dispatcher {
                     (!user.getPassword().equals(request.getParameter("password"))){
                 this.forward("/registration.html", request, response);
             } else {
+                request.getSession().setAttribute("isLogged","true");   //  устанавливает значение true переменной isLogged.
                 this.forward("/successLogin.jsp", request, response);
             }
         }

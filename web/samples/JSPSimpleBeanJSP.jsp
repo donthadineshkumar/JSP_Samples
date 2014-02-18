@@ -7,7 +7,7 @@
 
     <h1>JSP, работающая с компонентом JavaBeans</h1>
 
-    <jsp:useBean id="simpleBean" class="servlets.SimpleBean"/>
+    <jsp:useBean id="simpleBean" class="servletsSamples.SimpleBean"/>
     Начальное значение свойства:
     <I><%= simpleBean.getStringProperty()%> </I><br>
 
