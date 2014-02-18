@@ -11,5 +11,7 @@
 
     <a href="login.html">Форма авторизации</a> <br>
 
+    <a href="auth_db/authentication.jsp">Форма авторизации через БД SQL (хранение пользователя в БД)</a>
+
   </body>
 </html>
